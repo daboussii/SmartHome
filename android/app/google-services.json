@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327214365401",
+    "project_id": "fikraa-2914a",
+    "storage_bucket": "fikraa-2914a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327214365401:android:0d75545332d470eba75cc8",
+        "android_client_info": {
+          "package_name": "com.example.fikraa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjwSZ1ThiP8hEDERXoBJm6Cwz5cbQjI3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
